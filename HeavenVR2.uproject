@@ -1,17 +1,3 @@
-{
-	"FileVersion": 3,
-	"EngineAssociation": "4.24",
-	"Category": "",
-	"Description": "",
-	"Modules": [
-		{
-			"Name": "HeavenVR2",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
-	],
-	"TargetPlatforms": [
-		"Android",
-		"WindowsNoEditor"
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:77649fc934a922eb6bbf2441cc84ab22accdade664681589ecd0735197750a3e
+size 440
