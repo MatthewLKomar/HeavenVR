@@ -1,3 +1,3 @@
-# HeavenVR2
+# HeavenVR
 
 Developed with Unreal Engine 4
